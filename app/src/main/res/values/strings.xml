@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hesap</string>
+    <string name="sayi1">Sayı 1</string>
+    <string name="sayi2">Sayı 2</string>
+    <string name="sayi_giriniz">Sayı giriniz</string>
+    <string name="topla">+</string>
+    <string name="cikar">-</string>
+    <string name="carp">*</string>
+    <string name="bol">/</string>
+    <string name="sonuc">Sonuç:</string>
+    <string name="sonuc_varsayilan">0.0</string>
+</resources>
